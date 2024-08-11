@@ -1,23 +1,26 @@
-# Star Wars Genesis V4: Total Conversion Modlist for Starfield
+# Star Wars Genesis V5: Total Conversion Modlist for Starfield
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 ### This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
 
 
 ## **Overview:**<br />
-- Complete Sound and Music Overhaul<br />
+- Original Main Story Conversion <br />
+- Complete Sound and Music Conversion <br />
 - Full Conversion of ALL Factions & Sub-factions <br />
 - Full Conversion of ALL Weapons<br />
-- Full Conversion of ALL Spacesuits<br />
+- Full Conversion of ALL Spacesuits + Dozens of New Armors <br />
 - Notable Locations, Planets, Items, and Dialogue Rewritten<br />
-- Alien Races<br />
-- Converted Cities & Misc Items<br />
+- 10,000+ Rewritten & Replaced Voicelines
+- Alien Race Overhaul <br />
+- Converted Cities<br />
 - Aurebesh Wallpapers, Logos, and other Textures<br />
+- Custom Lore and Stories <br />
 - Third Person Combat Revamp <br />
 - Gameplay Enhancements and Bug Fixes<br />
 - Immersive Alternate Start Experience<br />
 - 4k Textures<br />
-- Realistic Damage, Balancing, and Scaling<br />
+- Realistic Damage and Scaling with Custom Balancing<br />
 - Rebalanced Economy <br />
 - POI & Worldgen Revamp<br />
 - Dynamic Weather <br />
@@ -35,7 +38,7 @@
    ![image](https://github.com/user-attachments/assets/0f9f433d-2335-43c0-baec-525535b39278)
 
 6. SSD. This will NOT work well on an HDD. Atleast 50 GB of available space (200+ GB if planning on using HD Overhaul)
-7. Fresh Save highly recommended
+7. Fresh Save highly recommended (even V4 users)
 8. Windows 10 1809 or 11 (Mod Organizer 2 Limitation)
 9. [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 10. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
@@ -46,15 +49,28 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 
 ## **IMPORTANT PRE-STEPS**   <br />
-1. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup and save is probably a mess. Please uninstall Starfield through Steam and then double check that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted <br />
+- Make sure Starfield is installed in the SAME drive you're installing the modlist on.
+- If you have any Creation Store mods, please uninstall ALL of them
+- If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam and then double check that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted <br />
+
+### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
 ## **Wabbajack Install**   <br />
+1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using).
+![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
+2. Download [Star Wars Genesis Wabbajack Compiler](https://www.youtube.com/deityvengy) and put it inside the **Compiler** folder.
+3. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **Wabbajack** folder.
+4. In the **Wabbajack** folder, run Wabbajack.exe to install Wabbajack.
+5. After the install finishes, run Wabbajack.exe again to open Wabbajack.
+6. Click the gear icon (settings) on the top left, then logon to Nexus Mods.
+7. Go back to the Wabbajack main menu and select _Install From Disk_
 
-1. Download [Star Wars Genesis Wabbajack Compiler](https://drive.google.com/file/d/1R1jPw3mKwdUfeNr4dWaPMiswpZsLL1sD/view?usp=drive_link) and put it on your Desktop.
-2. Download the latest version of Wabbajack from [here](https://www.wabbajack.org/) and put it in a folder called **_Wabbajack_**, then install.
-3. Create a folder called **_Star Wars Genesis_** in the location where you want to install everything (AWAY FROM WABBAJACK INSTALL LOCATION).
-4. MAKE SURE you did not mix the Wabbajack install folder with the Star Wars Genesis folder. These cannot be inside each other. The Star Wars Genesis.wabbajack file cannot be inside the Star Wars Genesis folder too. Everything should be on the same drive, including the wabbajack file.
-5. Open Wabbajack.exe for the first time and click the gear icon (settings) on the top left, then logon to Nexus Mods.
+   should look like this:
+
+
+
+
+
 6. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier. I must re-iterate. DO NOT put the wabbajack file from step 1 into the Star Wars Genesis folder and try to install that way. Your install will fail
 7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
 8. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.<br />
