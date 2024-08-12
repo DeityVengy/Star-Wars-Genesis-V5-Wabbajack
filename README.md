@@ -58,28 +58,22 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **Wabbajack Install Guide**   <br />
 1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using).
 ![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
-2. Download [Star Wars Genesis Wabbajack Compiler](https://www.youtube.com/deityvengy) and put it inside the **Compiler** folder.
-3. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **Wabbajack** folder.
-4. In the **Wabbajack** folder, run Wabbajack.exe to install Wabbajack.
-5. After the install finishes, run Wabbajack.exe again to open Wabbajack.
+2. Download [Star Wars Genesis Wabbajack Compiler](https://www.youtube.com/deityvengy) and put it inside the **COMPILER** folder.
+3. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **WABBAJACK** folder.
+4. In the **WABBAJACK** folder, run Wabbajack.exe to install it.
+5. After the install finishes, run Wabbajack.exe again to open it.
 6. Click the gear icon (settings) on the top left, then logon to Nexus Mods.
-7. Go back to the Wabbajack main menu and select _Install From Disk_
+7. Go back to the Wabbajack Main Menu and select **Install From Disk**
 8. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):
    ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
 9. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
 10. Once the install is finished, launch **ModOrganizer.exe** in the **Star Wars Genesis V5** folder. You will get a popup asking about nxm links. Click Yes.
 
-#### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another MO2 install for a different modded game.<br />
+#### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another Mod Organizer 2 install for a different modded game.<br />
 
 ## **IMPORTANT POST-STEP** <br />
-0. If this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once. Then close it.
-1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there
-
-## **MUSIC OVERHAUL**
-1. Download [Star Wars Music and Ambience Overhaul](https://drive.google.com/file/d/1YlhFBB024oBvKIl1q7q6oYUZrnuCORoY/view?usp=drive_link)
-   The archive (unextracted) goes into the Star Wars Genesis\Downloads folder. Refresh the Downloads tab on the right side of Mod Organizer 2's UI, scroll all the way down, and right click + install the mod. Name the mod "Star Wars Music and Ambience Overhaul (Non-Combat)" without the quotation marks. Then choose the **_replace_** option when installing. Now you can check the box on the left side to enable the mod <br />
-   #### _Note: The Red Triangles you see in the downloads tab is nothing to worry about._<br />
-   If you don't hear Star Wars Music while walking around cities/planets, then you installed this wrong.
+1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there <br />
+   If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
    
 ## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
@@ -245,5 +239,5 @@ Star Wars Genesis is a fan-made modification for the game Starfield. This mod tr
 
 The textures, plugins, and sounds included in **some** of the mods hosted on this GitHub repository are developed using a clean room design methodology. This means that these assets were independently created without direct reference to proprietary or copyrighted material from other existing mods. Consequently, no other mod or content creator has grounds or claims to request the removal of these mods based on intellectual property infringement. If there are any disputes regarding the originality of the assets, we invite the claimants to present a valid patent or evidence supporting their claims. This ensures that our work remains within legal boundaries while respecting the intellectual property rights of others. In other words, you do not own the idea of modifying an ingame asset any more than I do.
 
-Legal talk aside, I have spent countless hours on this project. I've done my due diligence and gotten permissions from dozens of authors and paid hundreds of dollars of my own money to advance the Starfield modding scene. If for some stupid reason (other than a DMCA from Disney), this modlist is suddenly taken down, be it on GitHub, Wabbajack, or NexusMods, then I **_will_** use other avenues to distribute this that many people won't be happy about. So for everyone's sake, if you have a problem with the project, then please contact me and we'll figure something out.
+Legal talk aside, I have spent countless hours on this project. I've done my due diligence and gotten permissions from dozens of authors, received licenses from many individuals, and paid hundreds of dollars of my own money to advance the Starfield modding scene. For everyone's sake, if you have a problem with the project, then please contact me and we'll figure something out. This is a modlist that thousands of people use and have on their systems. Attempting to take this down will neither stop development of it or the spread of it. This is not a threat by me. It is simply a fact based on the history of various other modlists. 
 
