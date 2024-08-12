@@ -15,7 +15,8 @@
 - Version 1.12.30 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 - [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe) (Most PC's have this but please make sure)
 - Fresh Save (even V4 users) <br /> <br />
-![Star Wars Genesis Requirements (2)](https://github.com/user-attachments/assets/03d0f8a2-a2ae-4ccd-a8a3-c84eb865be74)
+![Star Wars Genesis Requirements (3)](https://github.com/user-attachments/assets/fd7db0ca-cc50-48c1-9975-7510ff0dae4d)
+
 
 
 ## **What is Wabbajack?**<br />
@@ -52,31 +53,33 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
    If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
    
 ## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
-Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps. PLEASE DO NOT PANIC if it takes awhile to start for the first time.
+Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.<br />
+PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
-### **IF STARTING A NEW SAVE**
-1. After creating your character, save your game and then restart and load that same save to fix the sound issue (and numerous other issues).
-   
-### **IF LOADING AN EXISTING SAVE**
-1. If a pop-up asking about load order appears, make sure you click CURRENT
-2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
-3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
-4. Check how much HP your character has under the _Status_ menu. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command:<br />
-   - _player.modav health x_ <br />
-   - X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
-
-### **FOR ALL SAVES**
-1. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
+### **STARTING A NEW GAME**
+1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
+2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
    - Motion Blur Off
    - VSync Off
    - Upscaling Off (unless you really need it)
    - Everything else on Ultra (if you can)
    - Show Damage Numbers OFF under Interface
    - Dialogue and General Subtitles ON under Accessibility
-2. Music is off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
+3. Music may be off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
 3. Make sure your difficulty settings are all on normal.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
+
+### **IF LOADING AN EXISTING SAVE (why do you ignore me?)**
+1. If a pop-up asking about load order appears, make sure you click CURRENT
+2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
+3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
+4. Check how much HP your character has under the _Status_ menu. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command:<br />
+   - _player.modav health x_ <br />
+   - X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
+5. Check your inventory and make sure there aren't any invisible armors
+6. Teleport to major locationm such as Coruscant, Dantooine, and Nar Shaddaa and check if you crash
+7. Ask yourself if you really want to go through with this
 
 ## **LAUNCHING THE GAME**
 You have officially completed the install. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
