@@ -111,25 +111,66 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 ## **Patch Notes (V3 to V4)**
 
 **General**
-
+- Removal of 10+ redundant plugins
+- POI Integration Project added
+- Star Wars Armor Compendium added
+- Starfield Engine Fixes
 
 **Gameplay**
-
+- 12 new Shipwreck POI's
+- Level indicators removed from all NPC's. You will now only see their name.
+- Disabled Lung Damage from Toxic/Poor Air Quality while wearing a full "spacesuit" (helmet+armor+jetpack). You still can get lung damage from corrosive gas sources
 
 **Spacesuits/Clothing**
+- Book of Boba Fett Armor added to Mandalorian Lair (Mantis Lair) next to Pure Beskar Armor
+- Parsec Roamer Set is now Armor Layered Robes (Obi-Wan's Clone War Outfit)
+- Old Earth Set is now Old Republic Knight Armor (Anakin's Clone War Outfit)
+- Peacemaker Set is not Bounty Hunter Armor (Boussh)
+- Added numerous masks, which function as helmets and are available in shops
+- Smuggler Hat is now a proper hat with morphed hair and a breathing mask
+- Neo Crusader Jetpack Replaced
+- Added 6 new Armors from Crozzbow's Spacer Overhaul and integrated them within the Neo Crusaders faction (Marauder, Raider, Overlord, Warlord, Duelmaster, Enforcer)
+- Lab Coat Retextures
 
 
 **Overhauls/Conversions**
+- **Yuuzhan Vong Main Story**
+- Revamped NASA Facility to a Republic Research Facility, featuring many hidden secrets
+- Custom Weather for Coruscant, Nar Shaddaa, and Taris
+- Neo Crusader faction now includes 5 alternative Bounty Hunter variants
+- Patrol Troopers have replaced some of the existing Stormtroopers in Coruscant Undercity
+- Mos Eisley Cantina in Dantoo Town
+- Rewritten Loading Screen text pertaining to Star Wars Genesis lore
+- Rewritten Coruscant introduction kiosks
+- Countless retexture and clutter item replacements
 
 
 **Balancing**
-
+- Base Accuracy increased on all weapons
+- Targeting Perk reworked to offer 100% hip fire accuracy at rank 4 and considerate hip fire accuracy boost at rank 1
+- Nomad Armor buffed from 600 to 700 Armor
+- Numerous Stormtrooper variants buffed from 400 to 500 Armor
+- Night Owl and Deathwatch Armors buffed from 600 to 800 Armor
+- Neo Crusader Armor buffed from 500 to 800 Armor
+- Greatly reduced the chance for enemies to spawn with a Projectile Launcher
+- Removed Darksaber from all NPC's besides Yuuzhan Vong
+- Removed Darksaber from all shops
+- 30% Damage Nerf for DC-15S and EL-16
 
 **Economy**
+- Raised price of Dark Trooper Armor at the Imperial vendors from 10k credits to 80k. Helmet is 24k. Backpack is 15k
+- Misc. price adjustments on other armors
+- Removed many rare armors from vendors to encourage finding them in the Galaxy
+- Yuuzhan Vong Skerr Kyrric Armor is valued at 0 credits
+- Exponentially increased the price of Hololcrons found in the Galaxy
+
+**Companions**
+- Removal of BD-1 Vasco Replacer
+- Replaced Vasco with HK-47 (rusty)
 
 
 **Misc**
-
+- New Pause Screen background (same as main menu)
 
 **Bug Fixes**
 
