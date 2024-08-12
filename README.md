@@ -133,94 +133,43 @@ The rest are general questions:
    There are a few lightsaber and Jedi/Sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 ### Are there any ship mods in this modlist?<br />
    Not yet. Since those mods require you to install them with a video guide, I find them pointless to include since 90% of people won't know about it due to the nature of this "plug and play" modlist. I'm waiting for actual ship replacers.
-    
+   
 ## **Controller Support**
 1. Disable _**BAKA Hold to Sprint**_ under Gameplay
+
+## **Discord**
+Have a question? Experiencing a bug? Stuck on something during the install process and the [FAQ](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) isn't helping? Please join the [Discord](https://discord.gg/sqKTwGRwwY) for further support.
+
 
 ## **Patch Notes (V3 to V4)**
 
 **General**
-- **Wabbajack support**
-- Updated StarfieldCustom.ini file with better textures/display config
-- KiLoader/Loose Root Data Implementation
-- Root Builder Implementation
-- Removed 4 redundant plugins and integrated them into Genesis
+
 
 **Gameplay**
-- Better Weather System for ALL Planets
-- Populated planets now have WAY more POI's while barren planets remain the same
-- Removed and replaced integalactic loading screens with Hyperspace VFX Transitions
-- Gravity Wave converted to proper Force Push
-- Star Wars Background and Traits
-- Terrifying Terrormorphs Revamp, converting them into Corrupted Rakghouls that inflict allies with Rakghoul plague, turning allies against you and making your character hear voices in their head. Variations include Dread Rakghouls, Phantom Rakghouls, Nightmare Rakghouls, and more.
-- Added rare absorbable Kyber Crystals near planet landing areas. Every 3 you absorb gives you 1 skill point
-- Added scattered Jedi/Sith Temple Ruins that reward you with unique force powers or status effects
-- The Empire and the Rebels are now in active war. You will see them attack each other in Space.
+
 
 **Spacesuits/Clothing**
-- Sith Loyalists have been expanded to have both Purge Trooper and Sith Trooper armor variety. Varu'un Ambassadors have been replaced with Sith Ambassadors
-- Shaw Gang renamed to Swoop Gang and given new armor
-- The Ebbside Strikers are now Revanites with Black Robes (Masked and Maskless Variety)
-- Hondo Ohnaka is now The Collector. The Scow is renamed to Ohnaka Gang Base and it's NPCs are Ohnaka Gang members. The unique NPC's are wearing varied Bounty Hunter Armor
-- The Shadow Collective has been mixed with the Hondo Ohnaka pirate mod. The grunts have been turned into pirates while the elites and unique NPC's have kept their Mandalorian armor
-- "Prototype Sentinel Armor" replacer for new ETES spacesuit given at end of free tracker questline (still needs armor balancing tho)
-- Replaced Nar Shaddaa Dancers with Princess Leia Slave Outfits and other Star Wars Aliens
-- Renamed Coruscant Guard armor on Neon/Nar Shaddaa to Nar Shaddaa armor and added proper armor values to it
-- Neo Crusaders no longer wear mixed outfits
-- Alien heads no longer clip through Miner, Nomad, Commando, and Neo Crusader Helmets
-- Medic Stormtroopers replacing UC Marine Medics
-- Smuggler Armor now has the proper arms
-- Replaced Old Earth Set with Old Republic Knight set (Anakin's Clone War Armor)
-- Replaced Star Roamer Set with Armor Layered Robes (Obi-Wan Clone Wars Armor)
-- Replaced Peacemaker Set with Bounty Hunter Set (Boushh Armor)
+
 
 **Overhauls/Conversions**
-- Star Wars City Additions (Imperial Ships in Coruscant and Rebel Ships in Dantooine)
-- Stormtrooper Voice Lines
-- Rebel Voice Lines
-- Nar Shaddaa Voice Lines
-- Sith Code Audio for Artifacts
-- Black Galactic Empire flags
-- Coruscant City buildings now have lights and follow a day/night cycle
-- Nar Shaddaa City has been expanded to be more vertical and larger looking. Weaker PC's may notice an FPS loss
-- The Bounty Hunting currency "Astra" is now renamed and re-textured into Beskar
-- Added skeletons to destroyed Taris
-- Added large Dish above Mast Tower to make it look like Rogue One Citadel Tower
-- Bigger Rocks/Trees
-- Continued Renaming Project Development
+
 
 **Balancing**
-- Lore Accurate Weapon Change Overhaul
-- Darksaber will no longer be used or dropped by normal enemies and instead only by Yuuzhan Vong
-- Bullet Sponges have indirectly been fixed due to downgrading Ascension to 1.4.5
-- Removed the EM resist that Yuuzhan Vong NPC's naturally had (from Ascension)
-- Fixed Shaw Gang bullet sponges and invisible heads
-- Patched Ascension's poor weapon accuracy with good accuracy instead
-- Shoretrooper Armor now has correct armor values (1800 reduced to 400)
+
 
 **Economy**
-- 90% cheaper to register ships (this allows you to steal ships, register them, and sell them for profit)
-- The Bank Raid (Legacy's End) mission now rewards 1 million credits instead of 250k
+
 
 **Misc**
-- 4K Upscale Loading Screens
-- Color corrected dock cutscene
-- AU converted to LY (light years)
-- Alternate Paradiso (Niamos) Solution
-- Buildable Astromech Droids inside ship
-- Lt. Torres and Captain Myeong now wear their correct faction's space armor during main quest
+
 
 **Bug Fixes**
-- Essential NPC's is turned back on as it was causing too many issues with quests. Will find a replacement mod in the future.
-- Star Wars Datapads text fixed
-- Melee attacks and Force Powers no longer get cancelled in third person due to Quick Lowered Weapons
-- You no longer flail while falling/using the Jetpack
+
 
 ## **Gameplay**<br />
 [![Star Wars Genesis V4](https://res.cloudinary.com/marcomontalbano/image/upload/v1720351573/video_to_markdown/images/youtube--YtV3J-dGmBo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YtV3J-dGmBo "Star Wars Genesis V4")
 
-## **Discord**
-Got any more questions? Stuck on something during the install guide? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
 
 ## **Additional Credits**
 [Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
@@ -237,7 +186,7 @@ JaMeS for creating the Star Wars Genesis Logo <br />
 ## **Copyright Information**
 Star Wars Genesis is a fan-made modification for the game Starfield. This mod transforms the base game into a Star Wars RPG experience. Created under the principles of fair use, Star Wars Genesis is a non-commercial, transformative work of fan fiction, and it is not intended to infringe on the original copyrights held by Lucasfilm Ltd., Disney, Bethesda Softworks, or any other affiliated entities. This modification is distributed freely and will remain free, with no monetary gain sought or received from its creation, distribution, or use. By downloading and using Star Wars Genesis, you acknowledge that this mod is a fan project created out of a love for the Star Wars universe and is meant solely for entertainment purposes. We encourage support for the original creators and official Star Wars content.
 
-The textures, plugins, and sounds included in **some** of the mods hosted on this GitHub repository are developed using a clean room design methodology. This means that these assets were independently created without direct reference to proprietary or copyrighted material from other existing mods. Consequently, no other mod or content creator has grounds or claims to request the removal of these mods based on intellectual property infringement. If there are any disputes regarding the originality of the assets, we invite the claimants to present a valid patent or evidence supporting their claims. This ensures that our work remains within legal boundaries while respecting the intellectual property rights of others. In other words, you do not own the idea of modifying an ingame asset any more than I do.
+The textures, plugins, and sounds included in **some** of the mods hosted on this GitHub repository are developed using a clean room design methodology. This means that these assets were independently created without direct reference to proprietary or copyrighted material from other existing mods. Consequently, no other mod or content creator has grounds or claims to request the removal of these mods based on intellectual property infringement. If there are any disputes regarding the originality of the assets, we invite the claimants to present a valid patent or evidence supporting their claims. This ensures that our work remains within legal boundaries while respecting the intellectual property rights of others. In other words, you do not own the idea of modifying an ingame asset any more than I do, unless you are specifically replacing the asset with that of your own creation.
 
 Legal talk aside, I have spent countless hours on this project. I've done my due diligence and gotten permissions from dozens of authors, received licenses from many individuals, and paid hundreds of dollars of my own money to advance the Starfield modding scene. For everyone's sake, if you have a problem with the project, then please contact me and we'll figure something out. This is a modlist that thousands of people use and have on their systems. Attempting to take this down will neither stop development of it or the spread of it. This is not a threat by me. It is simply a fact based on the history of various other modlists. 
 
