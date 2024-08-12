@@ -108,7 +108,7 @@ The rest are general questions:
 Have a question? Experiencing a bug? Stuck on something during the install process and the [FAQ](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) isn't helping? Please join the [Discord](https://discord.gg/sqKTwGRwwY) for further support.
 
 
-## **Patch Notes (V3 to V4)**
+## **Patch Notes (V4 to V5)**
 
 **General**
 - Removal of 10+ redundant plugins
