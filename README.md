@@ -11,19 +11,12 @@
 #### If you're interested in a more in-depth overview of every mod involved in the list, then take a look at [this](https://github.com/DeityVengy/Star-Wars-Genesis-Full-Modlist).
 
 ## **Requirements:**
-1. **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
-2. Version 1.12.30 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
-3. [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe) (Most PC's have this but please make sure)
-![Star Wars Genesis Requirements (1)](https://github.com/user-attachments/assets/7f9ffd9a-5a00-46ce-9ad0-08d40eb35d0e)
+- **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
+- Version 1.12.30 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
+- [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe) (Most PC's have this but please make sure)
+- Fresh Save (even V4 users) <br /> <br />
+![Star Wars Genesis Requirements (2)](https://github.com/user-attachments/assets/03d0f8a2-a2ae-4ccd-a8a3-c84eb865be74)
 
-4. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
-5. Starfield Recommended Specs: <br />
-   ![Star Wars Genesis Requirements (1)](https://github.com/user-attachments/assets/91bd2555-0926-4c1d-8c0a-259fb198760e)
-
-
-7. Fresh Save highly recommended (even V4 users)
-10. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
-   ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
 
 ## **What is Wabbajack?**<br />
 Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click. After that, it'll still do all the load order/plugin configuration for you.
@@ -32,7 +25,9 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **IMPORTANT PRE-STEPS**   <br />
 - Make sure Starfield is installed in the SAME drive you're installing the modlist on.
 - If you have any Creation Store mods, please uninstall ALL of them
-- If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam and then double check that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted <br />
+- TURN OFF Automatic Updates for Starfield  <br />
+  ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
+- If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted, then re-install <br />
 
 ### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
