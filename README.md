@@ -56,7 +56,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.<br />
 PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
-### **STARTING A NEW GAME**
 1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
 2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
    - Motion Blur Off
@@ -70,16 +69,7 @@ PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
 
-### **IF LOADING AN EXISTING SAVE (why do you ignore me?)**
-1. If a pop-up asking about load order appears, make sure you click CURRENT
-2. If a warning pops up saying x plugin is missing, do NOT search for it in the creations menu and CONTINUE loading without it. These are redundant plugins that have been integrated into Star Wars Genesis
-3. If you see a popup as soon as you load in about SKK Fast Start and a STOP CODE. Just close it and don't worry about it.
-4. Check how much HP your character has under the _Status_ menu. If you're level 1, you should have 100 HP. If you're level 50, you should have around 150 hp, etc. If you're missing HP (for example someone went from v3 to v4 and only had 13 hp), then you must cheat your health back to normal with this command:<br />
-   - _player.modav health x_ <br />
-   - X being the number of health you want to add to your character. If you have 13 hp and are level 50, then you do _player.modav health 137_ to reach 150 intended health.
-5. Check your inventory and make sure there aren't any invisible armors
-6. Teleport to major locationm such as Coruscant, Dantooine, and Nar Shaddaa and check if you crash
-7. Ask yourself if you really want to go through with this
+### Note: If you are for some reason trying to load the modlist into an existing save, then I will not offer further support to you beyond what's in this page [here](https://github.com/DeityVengy/Star-Wars-Genesis-Existing-Save-Install)
 
 ## **LAUNCHING THE GAME**
 You have officially completed the install. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
@@ -109,7 +99,7 @@ The rest are general questions:
 ### How do I get X Weapon/Armor?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 ### Why no lightsabers?<br />
-   There are a few lightsaber and Jedi/Sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of the average person in Star Wars encountering a Jedi/Sith in this era is pretty low anyway. Just make it part of your headcannon lol.
+   There are a few lightsaber and Jedi/Sith mods out there but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of the average person in Star Wars encountering a Jedi/Sith in this era is pretty low anyway. Just make it part of your headcannon lol.
    
 ## **Controller Support**
 1. Disable _**BAKA Hold to Sprint**_ under Gameplay
