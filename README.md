@@ -115,14 +115,19 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - POI Integration Project added
 - Star Wars Armor Compendium added
 - Starfield Engine Fixes
+- Real Time Form Patcher
+- Latest versions of Freestar Rebels and UC Empire
 
 **Gameplay**
 - 12 new Shipwreck POI's
 - Level indicators removed from all NPC's. You will now only see their name.
+- Updated Alternate Start mod, adding Port Haven as a new possible start location and a new "civilian" loadout
 - Disabled Lung Damage from Toxic/Poor Air Quality while wearing a full "spacesuit" (helmet+armor+jetpack). You still can get lung damage from corrosive gas sources
 
 **Spacesuits/Clothing**
+- Starborn Armor replaced with 4 variants of Yuuzhan Vong Skerr Kyrric Armor
 - Book of Boba Fett Armor added to Mandalorian Lair (Mantis Lair) next to Pure Beskar Armor
+- Imperial Ground Crew Replacers
 - Parsec Roamer Set is now Armor Layered Robes (Obi-Wan's Clone War Outfit)
 - Old Earth Set is now Old Republic Knight Armor (Anakin's Clone War Outfit)
 - Peacemaker Set is not Bounty Hunter Armor (Boussh)
@@ -131,18 +136,36 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - Neo Crusader Jetpack Replaced
 - Added 6 new Armors from Crozzbow's Spacer Overhaul and integrated them within the Neo Crusaders faction (Marauder, Raider, Overlord, Warlord, Duelmaster, Enforcer)
 - Lab Coat Retextures
+- Rebel patch on Sarah's Outfit
+- Replaced vanilla Tracker's Alliance Outfit with durasteel battle-worn armor (cosmetic)
+- Replaced default miner armor with Ship Mechanic outfit
 
 
 **Overhauls/Conversions**
 - **Yuuzhan Vong Main Story**
+- 5000+ Replaced/Rewritten Ambient Voicelines
 - Revamped NASA Facility to a Republic Research Facility, featuring many hidden secrets
+- Revamped Tracker's Alliance decals/logos to Bounty Hunter's Guild
 - Custom Weather for Coruscant, Nar Shaddaa, and Taris
+- Revamped Coruscant. Replaced all rainbow colors to gray/white/black. Removed trees from spaceport (WIP)
 - Neo Crusader faction now includes 5 alternative Bounty Hunter variants
 - Patrol Troopers have replaced some of the existing Stormtroopers in Coruscant Undercity
 - Mos Eisley Cantina in Dantoo Town
-- Rewritten Loading Screen text pertaining to Star Wars Genesis lore
+- Rewritten Loading Screen text pertaining to Star Wars Genesis lore, including removal of periodic table references
 - Rewritten Coruscant introduction kiosks
 - Countless retexture and clutter item replacements
+- Half a dozen planet/system renames
+- Completely Revamped Blaster Sounds and Effects
+- Completely Revamped UI Sounds
+- Added Millenium Falcon to Kessel
+- Added TIE Advanced to Coruscant
+- Keeper Aquilus, Matteo, and various Sanctum NPCs given Temple Robes (Obi-Wan's robes)
+- Replaced Trade Authority logos/decals/clothing with Trade Federation
+- Replaced Geonosis logos/art with Imperial Propoganda and proper signage
+- Replaced DEIMOS logos/decals with Sienar Technologies
+- Sith Prisoner from Main Story given Dark Robes
+- Replaced Neshar's Outfit in Nar Shaddaa with variation of Smuggler's Outfit (guy getting arrested at start of game)
+
 
 
 **Balancing**
@@ -158,6 +181,7 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - 30% Damage Nerf for DC-15S and EL-16
 
 **Economy**
+- All new characters are given a Credit Transfer Module to unlock random credit chests that may spawn in POI's
 - Raised price of Dark Trooper Armor at the Imperial vendors from 10k credits to 80k. Helmet is 24k. Backpack is 15k
 - Misc. price adjustments on other armors
 - Removed many rare armors from vendors to encourage finding them in the Galaxy
@@ -167,10 +191,21 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 **Companions**
 - Removal of BD-1 Vasco Replacer
 - Replaced Vasco with HK-47 (rusty)
+- Vladimir into retired/recomissioned clonetrooper
+- Improved Sarah Appearance
+- Alternate Noell Appearance
+- Andreja Sith Exile Appearance
+- Andreja given Purge Trooper armor as her spacesuit and Sith clothing udnersuit
+- Sam Coe given unique Mandalorian Explorer Armor with sidecape and hat+goggles
+- Barret given Smuggler's Outfit with Hat + Mask. Everyday outfit is Smuggler's Outfit with Hat + No Mask
 
 
 **Misc**
 - New Pause Screen background (same as main menu)
+- Linked Companion Spacesuit (if you're wearing spacesuit in breathable area, so will they)
+- Starfield Hair and Beards (zone79)
+- Improved Encylopedia
+- Zoomed out Spaceship flight camera
 
 **Bug Fixes**
 
