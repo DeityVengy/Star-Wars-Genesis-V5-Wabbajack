@@ -1,31 +1,12 @@
 # Star Wars Genesis V5: Total Conversion Modlist for Starfield
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
-### This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
+### This is a guide on installing the Star Wars Genesis modlist that converts Starfield into Star Wars, as seen on my YouTube and featured on IGN, Forbes, Dexerto, Kotaku, and countless other forms of media. <br />
+### A quick overview of the list is available below:
 
 
-## **Overview:**<br />
-- Original Main Story Conversion <br />
-- Complete Sound and Music Conversion <br />
-- Full Conversion of ALL Factions & Sub-factions <br />
-- Full Conversion of ALL Weapons<br />
-- Full Conversion of ALL Spacesuits + Dozens of New Armors <br />
-- Notable Locations, Planets, Items, and Dialogue Rewritten<br />
-- 10,000+ Rewritten & Replaced Voicelines
-- Alien Race Overhaul <br />
-- Converted Cities<br />
-- Aurebesh Wallpapers, Logos, and other Textures<br />
-- Custom Lore and Stories <br />
-- Third Person Combat Revamp <br />
-- Gameplay Enhancements and Bug Fixes<br />
-- Immersive Alternate Start Experience<br />
-- 4k Textures<br />
-- Realistic Damage and Scaling with Custom Balancing<br />
-- Rebalanced Economy <br />
-- POI & Worldgen Revamp<br />
-- Dynamic Weather <br />
-- Active War Between Empire & Rebels <br />
-- Automated Install <br />
+![Star Wars Genesis Overview](https://github.com/user-attachments/assets/edce3c26-5c12-4209-9b6c-e913597dec03)
+
 
 #### If you're interested in a more in-depth overview of every mod involved in the list, then take a look at [this](https://github.com/DeityVengy/Star-Wars-Genesis-Full-Modlist).
 
