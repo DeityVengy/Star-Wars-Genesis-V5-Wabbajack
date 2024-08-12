@@ -31,7 +31,7 @@
 
 ## **Requirements:**
 1. **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
-2. Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
+2. Version 1.12.30 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 
 3. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
 4. Starfield Recommended Specs: <br />
@@ -55,7 +55,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
-## **Wabbajack Install**   <br />
+## **Wabbajack Install Guide**   <br />
 1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using).
 ![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
 2. Download [Star Wars Genesis Wabbajack Compiler](https://www.youtube.com/deityvengy) and put it inside the **Compiler** folder.
@@ -64,21 +64,12 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 5. After the install finishes, run Wabbajack.exe again to open Wabbajack.
 6. Click the gear icon (settings) on the top left, then logon to Nexus Mods.
 7. Go back to the Wabbajack main menu and select _Install From Disk_
+8. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):
+   ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
+9. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
+10. Once the install is finished, launch **ModOrganizer.exe** in the **Star Wars Genesis V5** folder. You will get a popup asking about nxm links. Click Yes.
 
-   should look like this:
-
-
-
-
-
-6. Close Wabbajack and double click the _Star Wars Genesis.wabbajack_ file you downloaded earlier. I must re-iterate. DO NOT put the wabbajack file from step 1 into the Star Wars Genesis folder and try to install that way. Your install will fail
-7. Set the "_Modlist Installation Location_" to the _**Star Wars Genesis**_ folder you created earlier. The Resource Downlaod folder should auto-fill. Leave that alone.
-8. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.<br />
-9. If at any point your install gets "stuck", just close wabbajack and start the install again, pointing to the same location you chose earlier and unchecking the "overwrite" option. This will resume where you left off. A "stuck" install is different from an error. If you get an error, don't bother trying to reinstall as the problem is due to something else
-9. Once the install is finished, launch **ModOrganizer.exe** in the _**Star Wars Genesis**_ folder (NOT THE DOWNLOADS FOLDER). You will get a popup asking about nxm links. Click Yes.
-10. Keep Mod Organizer 2 open. <br />
-
-#### Note: This is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another MO2 install for a different modded game.<br />
+#### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another MO2 install for a different modded game.<br />
 
 ## **IMPORTANT POST-STEP** <br />
 0. If this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once. Then close it.
