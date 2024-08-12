@@ -2,9 +2,9 @@
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 ### This is a guide on installing the Star Wars Genesis modlist that converts Starfield into Star Wars, as seen on my YouTube and featured on IGN, Forbes, Dexerto, Kotaku, and countless other forms of media. <br />
-### A quick overview of the list is available below:
-
-
+### This is not your typical modlist that simply combines every mod out there into a jumbled mess and calls it a day. This is a modlist created by a passionate Star Wars lover and Mod Author that features countless mods of my own that were built specifically for it. <br />
+### Star Wars Genesis is an experience. One that you cannot find anywhere else. It is the Ultimate Star Wars RPG, featuring a harsh and unforgiving Galaxy that is not been seen yet in any other form of modern Star Wars media. Heavily inspired off of Star Wars Galaxies, Knights of the Old Republic, and Legends. <br />
+### I hope you enjoy playing it as much as I enjoyed creating it. Thank you.
 ![Star Wars Genesis Overview](https://github.com/user-attachments/assets/edce3c26-5c12-4209-9b6c-e913597dec03)
 
 
