@@ -18,7 +18,8 @@
 
 4. No creation store mods installed. Disable/Uninstall them all first. Please DO NOT keep them enabled after reading this and then ask for help in my Discord after you experience an obscure bug that is most probably caused by their conflict. Known issues range from your game completely not starting to crashes and other issues.
 5. Starfield Recommended Specs: <br />
-   ![image](https://github.com/user-attachments/assets/0f9f433d-2335-43c0-baec-525535b39278)
+   ![Star Wars Genesis Requirements (1)](https://github.com/user-attachments/assets/91bd2555-0926-4c1d-8c0a-259fb198760e)
+
 
 7. Fresh Save highly recommended (even V4 users)
 10. DOUBLE CHECK THAT YOU TURNED OFF AUTOMATIC UPDATES FOR STARFIELD
