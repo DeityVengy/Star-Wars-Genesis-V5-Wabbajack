@@ -30,7 +30,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
   ![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
 - If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both **_Documents\My Games\Starfield_** and **_steamapps\common\Starfield_** folders are deleted, then re-install <br />
 
-### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
+### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
 ## **Wabbajack Install Guide**   <br />
 1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using).
