@@ -91,15 +91,20 @@ The final step is to download the Modified Starfield.ini and replace the existin
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
 - If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
 
+## Lore
+Star Wars Genesis has it's own lore. You are welcome to view it here but beware that there WILL be spoilers in [here](https://github.com/DeityVengy/Star-Wars-Genesis-Timeline) for the main story and other quests.
+
 ## **F.A.Q.**
 Technical Support F.A.Q. can be found [here](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) <br />
 The rest are general questions:
 ### Xbox Version? <br />
    As of V5, this modlist is beyond the mod limit of Starfield and only functions due to thousands of custom patches I've done. That means that is now impossible to replicate without using a modlist auto-installer like Wabbajack, which consoeles don't have. All of my personal mods on Nexus are open permission and free to be ported over by others through. i've noticed some already have been. You can get something similar on Xbox, but not to this level unfortunately, atleast for awhile. 
-### How do I get X Weapon/Armor?<br />
+### How do I get X Weapon/Armor/Item/Ship?<br />
    Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then download the Star Wars Genesis Encyclopedia in my Discord and find the base game equivalent of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
 ### Why no lightsabers?<br />
    There are a few lightsaber and Jedi/Sith mods out there but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of the average person in Star Wars encountering a Jedi/Sith in this era is pretty low anyway. Just make it part of your headcannon lol.
+### Can you add more mods to the list?<br />
+  Yes, but it is not something the average person is gonna have much success in, depending on the complexity of the mods involved. You can find a guide on how to add additional mods to Star Wars Genesis [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install)
    
 ## **Controller Support**
 1. Disable _**BAKA Hold to Sprint**_ under Gameplay
