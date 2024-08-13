@@ -51,7 +51,11 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ## **IMPORTANT POST-STEP** <br />
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there <br />
    If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
-   
+## **LAUNCHING THE GAME**
+You are now ready to launch the game and complete the last bit of instructions. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
+This is how you will always start your game from now on. <br />
+
+![image](https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36)
 ## **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
 Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.<br />
 PLEASE DO NOT PANIC if it takes awhile to start for the first time.
@@ -71,10 +75,6 @@ PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
 ### Note: If you are for some reason trying to load the modlist into an existing save, then I will not offer further support to you beyond what's in this page [here](https://github.com/DeityVengy/Star-Wars-Genesis-Existing-Save-Install)
 
-## **LAUNCHING THE GAME**
-You have officially completed the install. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
-This is how you will always start your game from now on.<br />
-![image](https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36)
 
 
 ## **HD Overhaul (OPTIONAL)**<br />
