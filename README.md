@@ -14,7 +14,7 @@
 - **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
 - Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 - [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe) (Most PC's have this but please make sure)
-- Fresh Save (even V4 users) <br /> <br />
+- Fresh Save (even V4 users) (NG+ does NOT count) <br /> <br />
 ![Star Wars Genesis Requirements (6)](https://github.com/user-attachments/assets/6e5392c9-47d6-42ce-a344-9325b88d2ac6)
 
 
