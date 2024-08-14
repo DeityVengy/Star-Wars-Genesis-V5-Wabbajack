@@ -15,7 +15,8 @@
 - Version 1.12.36 of Starfield. PLEASE TURN OFF AUTOMATIC UPDATES for your sake and do NOT ever update until a newer version of Star Wars Genesis releases
 - [Microsoft Visual C++ Redistributable 14.40.33810.0](https://aka.ms/vs/17/release/vc_redist.x64.exe) (Most PC's have this but please make sure)
 - Fresh Save (even V4 users) <br /> <br />
-![Uploading Star Wars Genesis Requirements (5).png…]()
+![Star Wars Genesis Requirements (5)](https://github.com/user-attachments/assets/f12dfb6b-d0b9-4070-a933-0ac5cca6f495)
+
 
 
 
