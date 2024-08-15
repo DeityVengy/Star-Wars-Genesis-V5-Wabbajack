@@ -147,6 +147,10 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - Rebel patch on Sarah's Outfit
 - Replaced vanilla Tracker's Alliance Outfit with durasteel battle-worn armor (cosmetic)
 - Replaced default miner armor with Ship Mechanic outfit
+- Smuggler Outfit's blue fingers turn brown to look like gloves
+- Fixed Mining Armor neck clipping
+- Fixed Vanilla Crimson Fleet helmets being displayed instead of Shadow Collective/Guavian helmets
+- Fixed morph issues with Nomad Armor
 
 
 **Overhauls/Conversions**
@@ -165,6 +169,8 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - Half a dozen planet/system renames
 - Completely Revamped Blaster Sounds and Effects
 - Completely Revamped UI Sounds
+- 12 New Music Tracks (Lodge, Londinion, Trade Authority, UC Surplus, Vigilance, Tracker's Alliance)
+- All 65+ Music Tracks normalized (so one track isn't louder or quieter than the other)
 - Added Millenium Falcon to Kessel
 - Added TIE Advanced to Coruscant
 - Keeper Aquilus, Matteo, and various Sanctum NPCs given Temple Robes (Obi-Wan's robes)
@@ -173,20 +179,23 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - Replaced DEIMOS logos/decals with Sienar Technologies
 - Sith Prisoner from Main Story given Dark Robes
 - Replaced Neshar's Outfit in Nar Shaddaa with variation of Smuggler's Outfit (guy getting arrested at start of game)
-
-
+- Niamos Security Chief now wears Shoretrooper Leader Armor
+- Mathis Castilla missing head fixed (Bounty Hunting companion from Shadow Collective)
 
 **Balancing**
 - Base Accuracy increased on all weapons
+- Buffed countless weapons to be up to par with the few strong ones in V4.
 - Targeting Perk reworked to offer 100% hip fire accuracy at rank 4 and considerate hip fire accuracy boost at rank 1
 - Nomad Armor buffed from 600 to 700 Armor
 - Numerous Stormtrooper variants buffed from 400 to 500 Armor
 - Night Owl and Deathwatch Armors buffed from 600 to 800 Armor
+- Sith Stalker Armor value fixed (600 to 800)
 - Neo Crusader Armor buffed from 500 to 800 Armor
 - Greatly reduced the chance for enemies to spawn with a Projectile Launcher
 - Removed Darksaber from all NPC's besides Yuuzhan Vong
 - Removed Darksaber from all shops
 - 30% Damage Nerf for DC-15S and EL-16
+- Corrected some Blaster Rifle level lists not being scaled for Ascension
 
 **Economy**
 - All new characters are given a Credit Transfer Module to unlock random credit chests that may spawn in POI's
@@ -207,16 +216,24 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 - Sam Coe given unique Mandalorian Explorer Armor with sidecape and hat+goggles
 - Barret given Smuggler's Outfit with Hat + Mask. Everyday outfit is Smuggler's Outfit with Hat + No Mask
 
-
 **Misc**
-- New Pause Screen background (same as main menu)
+- New Pause Screen Background (same as main menu)
+- Replaced Mod Organzier 2 Splash Screen to Genesis logo
 - Linked Companion Spacesuit (if you're wearing spacesuit in breathable area, so will they)
 - Starfield Hair and Beards (zone79)
 - Improved Encylopedia
 - Zoomed out Spaceship flight camera
+- New popup telling you to restart the game after alternate start
+- Cutters are now black
 
-**Bug Fixes**
-
+**Misc Bug Fixes**
+- Replaced repeating music track in Dantooine/Akila
+- Swoop Gang Main Quest NPC's should no longer be missing heads
+- Frontier Ship no longer missing in Alternate Start
+- Fixed typo in StarfieldCustom.ini which was supposed to enable raw mouse input
+- Invisible T-21 heavy Blaster Rifle
+- Mining laser effect is now visible
+- The element "Neon" is now called "Neon" again instead of "Promenade"
 
 ## **Gameplay**<br />
 [![Star Wars Genesis V4](https://res.cloudinary.com/marcomontalbano/image/upload/v1720351573/video_to_markdown/images/youtube--YtV3J-dGmBo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=YtV3J-dGmBo "Star Wars Genesis V4")
