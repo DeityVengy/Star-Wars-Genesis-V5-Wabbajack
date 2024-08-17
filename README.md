@@ -91,7 +91,7 @@ MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamap
 #### Note: DO NOT USE MOD ORGANIZER 2 TO INSTALL THESE OR ELSE YOU WILL HAVE CRASHES AND COUNTLESS BUGS <br />
 Your Data folder should have ALL these files in there like this this:
 ![image](https://github.com/user-attachments/assets/a967a16b-3e74-4ac7-a435-6cdbfe07892e) <br />
-The final step is to download the Modified Starfield.ini and replace the existing one in your steamapps\common\Starfield directory. You are done.
+The next step is to download the Modified Starfield.ini and replace the existing one in your steamapps\common\Starfield directory. After that is the final step of deleting everything in your Overwrite directory in Mod Organizer 2. You are done and now ready to launch the game.
 
 ## Difficulty (Optional)
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
