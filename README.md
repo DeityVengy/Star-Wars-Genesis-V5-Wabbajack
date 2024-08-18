@@ -36,6 +36,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
 ## **Wabbajack Install Guide**   <br />
+[Video Guide](https://www.youtube.com/watch?v=wdQbYCONwig)
 1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using). Previous users of my modlist should NOT install over their existing V4 modlist.
 ![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
 2. Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the **COMPILER** folder.
