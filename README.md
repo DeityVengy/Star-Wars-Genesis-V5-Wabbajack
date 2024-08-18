@@ -42,7 +42,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 3. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **WABBAJACK** folder.
 4. In the **WABBAJACK** folder, run Wabbajack.exe to install it.
 5. After the install finishes, run Wabbajack.exe again to open it.
-6. Click the gear icon (settings) on the top left, then logon to Nexus Mods.
+6. Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you're already logged in, log out and log back in. **Trust me**
 7. Go back to the Wabbajack Main Menu and select **Install From Disk**
 8. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):
    ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
