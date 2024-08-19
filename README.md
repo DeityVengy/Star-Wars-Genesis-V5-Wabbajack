@@ -69,6 +69,7 @@ PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
 2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
    - Motion Blur Off
+   - Film Grain Off
    - VSync Off
    - Upscaling Off (unless you really need it)
    - Everything else on Ultra (if you can)
