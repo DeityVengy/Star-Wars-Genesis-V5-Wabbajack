@@ -1,4 +1,9 @@
 # Star Wars Genesis V5: Total Conversion Modlist for Starfield
+
+# ATTENTION
+# IF YOU ARE READING THIS, THEN STARFIELD HAD AN UPDATE. THIS MODLIST IS NOT WORKING ANYMORE. PLEASE CHECK BACK IN A DAY OR SO OR REFER TO MY DISCORD
+# ATTENTION
+
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 ### This is a guide on installing the Star Wars Genesis modlist that converts Starfield into Star Wars, as seen on my YouTube and featured on IGN, Forbes, Dexerto, Kotaku, and countless other forms of media. <br />
