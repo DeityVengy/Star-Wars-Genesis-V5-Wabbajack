@@ -43,7 +43,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 4. **If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both _Documents\My Games\Starfield_ and _steamapps\common\Starfield_ folders are deleted, then re-install.**
 
-### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you can find a mini-guide [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install) on how to add additional mods to Star Wars Genesis safely.
+#### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you can find a mini-guide [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install) on how to add additional mods to Star Wars Genesis safely.
 
 <br />
 
@@ -108,7 +108,7 @@ This is how you will always start your game from now on. <br />
 4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
 5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
 
-### Note: If you are for some reason trying to load the modlist into an existing save, then I will not offer further support to you beyond what's in this page [here](https://github.com/DeityVengy/Star-Wars-Genesis-Existing-Save-Install)
+#### Note: If you are for some reason trying to load the modlist into an existing save, then I will not offer further support to you beyond what's in this page [here](https://github.com/DeityVengy/Star-Wars-Genesis-Existing-Save-Install)
 
 
 
