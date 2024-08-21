@@ -120,17 +120,15 @@ The rest are general questions:
 ### Why no lightsabers?<br />
    There are a few lightsaber and Jedi/Sith mods out there but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of the average person in Star Wars encountering a Jedi/Sith in this era is pretty low anyway. Just make it part of your headcannon lol.
    
-## **Controller Support**
-1. Disable _**BAKA Hold to Sprint**_ under Gameplay
-
 ## **Discord**
-Have a question? Experiencing a bug? Stuck on something during the install process and the [FAQ](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) isn't helping? Please join the [Discord](https://discord.gg/sqKTwGRwwY) for further support.
+[<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/dad2bf7c-bf8b-4bc7-b539-62eafe1cad70" />](https://discord.gg/sqKTwGRwwY)
+#### <p align="center"> Note: Click the image above to join the Discord, where you'll get further support and stay updated with upcoming content.  </p>
+
 
 
 ## **Patch Notes**
 [<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/76c0e5bb-cf17-43eb-a601-510ecc11f868" />](https://github.com/DeityVengy/Star-Wars-Genesis-Patch-Notes)
 #### <p align="center"> Note: Click the image above to view all patch notes and update history for Star Wars Genesis. </p>
-
 
 
 ## **Gameplay**<br />
@@ -140,6 +138,8 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
   </a>
 </div>
 
+## **Controller Support**
+1. Disable _**BAKA Hold to Sprint**_ under Gameplay
 
 ## **Additional Credits**
 [Xaroph](https://next.nexusmods.com/profile/Xaroph/mods) for 90% of the Clothing Pack<br />
