@@ -106,19 +106,6 @@ The next step is to download the Modified Starfield.ini and replace the existing
 [<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/73b2c0fe-b033-45f4-ac64-efe45558e1cb" />](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ)
 #### <p align="center"> Note: Click the image above to view all frequently answered questions regarding Star Wars Genesis. If you're having an issue, 90% chance the solution to it is here. If you join my Discord and ask a question that's in here, I'm just gonna link it to you anyway. Might as well read it.  </p>
 
-Technical Support F.A.Q. can be found [here](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) <br />
-The rest are general questions:
-### Can I update outdated mods in the list? Can I use LOOT on the list? <br />
-  I will lose my shit if you come to my Discord asking for help with an obscure bug and I found out you used LOOT on my modlist or updated a mod that I left purposely outdated
-### Can I add more mods to the list?<br />
-  Yes, but it is not something the average person is gonna have much success in, depending on the complexity of the mods involved. You MUST refer to my guide on how to add additional mods to Star Wars Genesis [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install) and you MUST only ask for help in channels marked for modified installs.
-### Xbox Version? <br />
-   As of V5, this modlist is beyond the mod limit of Starfield and only functions due to thousands of custom patches I've done. That means that it is now impossible to replicate without using a modlist auto-installer like Wabbajack, which consoeles don't have. All of my personal mods on Nexus are open permission and free to be ported over by others through. i've noticed some already have been. You can get something similar on Xbox, but not to this level unfortunately, atleast for awhile. 
-### How do I get X Weapon/Armor/Item/Ship?<br />
-   Every single thing in this modlist can be acquired ingame through natural progression. If you want to skip that, then look at the [Star Wars Genesis Encyclopedia](https://docs.google.com/spreadsheets/d/10nsfWMzfDtFHDXaNGmyb3dDeQLnNtfgh/edit?gid=319705241#gid=319705241) and find the base game equivalent or location of the Weapon/Armor you want. Google the ID of that item and spawn it in with console commands. I DO NOT SUPPORT ANYTHING IN THE WORKBENCHES. You are free to use stuff in the workbenches but they are not balanced around Star Wars Genesis and may even be buggy.
-### Why no lightsabers?<br />
-   There are a few lightsaber and Jedi/Sith mods out there but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of the average person in Star Wars encountering a Jedi/Sith in this era is pretty low anyway. Just make it part of your headcannon lol.
-
 ## Lore
 [<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/2080f9d6-3921-46bf-8d35-45474fb6ebe9" />](https://github.com/DeityVengy/Star-Wars-Genesis-Timeline)
 #### <p align="center"> Note: Click the image above to view the lore of Star Wars Genesis. This is your spoiler warning. </p>
