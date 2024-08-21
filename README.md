@@ -49,19 +49,34 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 </div>
 
+<table>
+<tr>
+<td style="vertical-align: top;">❶</td>
+<td>Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using). Previous users of my modlist should NOT install over their existing V4 modlist.</td>
+</tr>
+</table>
 
-1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using). Previous users of my modlist should NOT install over their existing V4 modlist.
-![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
-2. Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the **COMPILER** folder.
-3. Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **WABBAJACK** folder.
-4. In the **WABBAJACK** folder, run Wabbajack.exe to install it.
-5. After the install finishes, run Wabbajack.exe again to open it.
-6. Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you're already logged in, log out and log back in. **Trust me**
-7. Go back to the Wabbajack Main Menu and select **Install From Disk**
-8. Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):
-   ![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
-9. Start the install. if you don't have Nexus Premium, then Wabbajack makes you click through each mod. if you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.
-10. Once the install is finished, launch **ModOrganizer.exe** in the **Star Wars Genesis V5** folder. You will get a popup asking about nxm links. Click Yes.
+&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
+
+❷ Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the **COMPILER** folder.  
+
+❸ Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the **WABBAJACK** folder.  
+
+❹ In the **WABBAJACK** folder, run Wabbajack.exe to install it.  
+
+❺ After the install finishes, run Wabbajack.exe again to open it.  
+
+❻ Click the gear icon (settings) on the top left, then logon to Nexus Mods. Even if you're already logged in, log out and log back in. **Trust me**  
+
+❼ Go back to the Wabbajack Main Menu and select **Install From Disk**  
+
+❽ Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):  
+&nbsp;&nbsp;&nbsp;&nbsp;![image](https://github.com/user-attachments/assets/78800b97-3041-460a-a389-871179ea2f32)
+
+❾ Start the install. If you don't have Nexus Premium, then Wabbajack makes you click through each mod. If you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.  
+
+❿ Once the install is finished, launch **ModOrganizer.exe** in the **Star Wars Genesis V5** folder. You will get a popup asking about nxm links. Click Yes.  
+
 
 #### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another Mod Organizer 2 install for a different modded game.<br />
 
