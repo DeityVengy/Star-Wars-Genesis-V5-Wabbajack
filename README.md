@@ -42,7 +42,14 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 ### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
 
 ## **Wabbajack Install Guide**   <br />
- [_CLICK HERE FOR VIDEO GUIDE_](https://www.youtube.com/watch?v=wdQbYCONwig)
+
+<div align="center">
+
+### **➡️ [_CLICK HERE FOR VIDEO GUIDE_](https://www.youtube.com/watch?v=wdQbYCONwig) ⬅️**
+
+</div>
+
+
 1. Create the following three folders at the root of your drive (e.g., C:\, D:\, or whichever drive you're using). Previous users of my modlist should NOT install over their existing V4 modlist.
 ![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
 2. Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the **COMPILER** folder.
@@ -111,9 +118,8 @@ The next step is to download the Modified Starfield.ini and replace the existing
 #### <p align="center"> Note: Click the image above to view the lore of Star Wars Genesis. This is your spoiler warning. </p>
    
 ## **Discord**
-[<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/dad2bf7c-bf8b-4bc7-b539-62eafe1cad70" />](https://discord.gg/sqKTwGRwwY)
+[<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/dc4a3c18-1305-47e2-8ab1-32a93882829b" />](https://discord.gg/sqKTwGRwwY)
 #### <p align="center"> Note: Click the image above to join the Discord, where you'll get further support and stay updated with upcoming content.  </p>
-
 
 
 ## **Patch Notes**
