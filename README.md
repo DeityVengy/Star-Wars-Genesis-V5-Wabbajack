@@ -41,7 +41,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 3. **TURN OFF Automatic Updates for Starfield**  
 <br />&nbsp;![image](https://github.com/DeityVengy/Star-Wars-Genesis-V4-Wabbajack/assets/170469610/4bdeec4d-db5e-4d9e-82a9-e5545dc298f6)
 
-4. **If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both _Documents\My Games\Starfield_ and _steamapps\common\Starfield_ folders are deleted, then re-install.**
+4. **If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both `Documents\My Games\Starfield` and `steamapps\common\Starfield` folders are deleted, then re-install.**
 
 #### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you can find a mini-guide [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install) on how to add additional mods to Star Wars Genesis safely.
 
@@ -59,17 +59,17 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
    ![image](https://github.com/user-attachments/assets/eff384de-f4d1-4f8c-9858-94270f307742)
 
-2. **Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the COMPILER folder.**
+2. **Download [Star Wars Genesis V5.wabbajack](https://drive.google.com/drive/folders/1m2463OglLXVJ0esVAMPtXvWgvyVyfbSn?usp=drive_link) and put it inside the `Compiler` folder.**
 
-3. **Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the WABBAJACK folder.**
+3. **Download the latest version of Wabbajack.exe from [here](https://www.wabbajack.org/) and put it inside the `Wabbajack` folder.**
 
-4. **In the WABBAJACK folder, run Wabbajack.exe to install it.**
+4. **In the `Wabbajack` folder, run `Wabbajack.exe` to install it.**
 
-5. **After the install finishes, run Wabbajack.exe again to open it.**
+5. **After the install finishes, run `Wabbajack.exe` again to open it.**
 
-6. **Click the gear icon (settings) on the top left, then log on to Nexus Mods. Even if you're already logged in, log out and log back in. Trust me.**
+6. **Click the gear icon (settings) on the top left, then log on to NexusMods. Even if you're already logged in, log out and log back in. Trust me.**
 
-7. **Go back to the Wabbajack Main Menu and select Install From Disk.**
+7. **Go back to the Wabbajack Main Menu and select `Install From Disk`.**
 
 8. **Match everything to this (remember the drive letter like K, C, etc should match yours, not mine):**
 
@@ -77,7 +77,7 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 9. **Start the install. If you don't have Nexus Premium, then Wabbajack makes you click through each mod. If you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.**
 
-10. **Wait for install to finish.**
+10. **Once complete, the bottom right tab will say `Install Complete`. If it says `Install Failed`, then please read the error at the left-hand side of the menu. You can find solutions to that error in the [F.A.Q.](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ)**
 
 ![Install Guide (3)](https://github.com/user-attachments/assets/ae711b3d-1f38-439d-bf52-5e3c90fd55cd)
 
@@ -134,14 +134,31 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 
 ![Install Guide (6)](https://github.com/user-attachments/assets/dbd50e54-9c8e-41a7-aee9-b000f6b4c188)
-[This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. <br />
-MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamapps\common\Starfield\Data folder. <br />
-- Parts 1 - 15
-- Texture Patch <br />
-#### Note: DO NOT USE MOD ORGANIZER 2 TO INSTALL THESE OR ELSE YOU WILL HAVE CRASHES AND COUNTLESS BUGS <br />
-Your Data folder should have ALL these files in there like this this:
-![image](https://github.com/user-attachments/assets/a967a16b-3e74-4ac7-a435-6cdbfe07892e) <br />
-The next step is to download the Modified Starfield.ini and replace the existing one in your steamapps\common\Starfield directory. After that is the final step of deleting everything in your Overwrite directory in Mod Organizer 2. You are done and now ready to launch the game.
+### Texture Installation Instructions
+
+[This mod](https://www.nexusmods.com/starfield/mods/5124?tab=files) includes over 100 GB of 2-4K textures and may cause performance issues if your PC is not powerful enough.
+
+
+1. **Download:**
+   - MANUALLY download the following files and place the `.BA2` files from each archive into your `steamapps\common\Starfield\Data` folder:
+     - Parts 1 - 15
+     - Texture Patch
+
+   **Note:** **DO NOT USE MOD ORGANIZER 2** to install these files, as it will lead to crashes and countless bugs.
+
+2. **Verify Data Folder:**
+   - Your `Data` folder should contain **all** the files, arranged like this:
+   
+   ![Data Folder Example](https://github.com/user-attachments/assets/a967a16b-3e74-4ac7-a435-6cdbfe07892e)
+
+3. **Replace `Starfield.ini`:**
+   - Download the Modified `Starfield.ini` from the mod page and replace the existing one in your `steamapps\common\Starfield` directory.
+
+4. **Clean Overwrite Directory:**
+   - Delete everything in your `Overwrite` directory in Mod Organizer 2 (located at the bottom of the Mod Organizer 2 modlist)
+
+You’re done!
+
 
 ![Install Guide (7)](https://github.com/user-attachments/assets/f35af1af-d929-4022-928b-8539372d40fa)
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
