@@ -5,7 +5,6 @@
 # ATTENTION
 
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
-
 ### This is a guide on installing the Star Wars Genesis modlist that converts Starfield into Star Wars, as seen on my YouTube and featured on IGN, Forbes, Dexerto, Kotaku, and countless other forms of media. <br />
 ### This is not your typical modlist that simply combines every mod out there into a jumbled mess and calls it a day. This is a modlist created by a passionate Star Wars lover and Mod Author that features countless mods of my own that were built specifically for it. <br />
 ### Star Wars Genesis is an experience. One that you cannot find anywhere else. It is the Ultimate Star Wars RPG, featuring a harsh and unforgiving Galaxy that is not been seen yet in any other form of modern Star Wars media. Heavily inspired off of Star Wars Galaxies, Knights of the Old Republic, and Legends. <br />
@@ -104,7 +103,8 @@ The next step is to download the Modified Starfield.ini and replace the existing
 - If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
 
 ## Lore
-Star Wars Genesis has it's own lore. You are welcome to view it here but beware that there WILL be spoilers in [here](https://github.com/DeityVengy/Star-Wars-Genesis-Timeline) for the main story and other quests.
+[<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/2080f9d6-3921-46bf-8d35-45474fb6ebe9" />](https://github.com/DeityVengy/Star-Wars-Genesis-Timeline)
+#### <p align="center"> Note: Click the image above to view the lore of Star Wars Genesis. This is your spoiler warning. </p>
 
 ## **F.A.Q.**
 Technical Support F.A.Q. can be found [here](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) <br />
