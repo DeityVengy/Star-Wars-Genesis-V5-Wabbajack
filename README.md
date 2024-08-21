@@ -77,14 +77,18 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 9. **Start the install. If you don't have Nexus Premium, then Wabbajack makes you click through each mod. If you do have Nexus Premium, then Wabbajack downloads each mod automatically for you.**
 
-10. **Once the install is finished, launch ModOrganizer.exe in the Star Wars Genesis V5 folder. You will get a popup asking about nxm links. Click Yes.**
-
-
-#### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another Mod Organizer 2 install for a different modded game.<br />
+10. **Wait for install to finish.**
 
 ![Install Guide (3)](https://github.com/user-attachments/assets/ae711b3d-1f38-439d-bf52-5e3c90fd55cd)
-1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there <br />
-#### NOTE: If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
+
+1. Go to `Documents\My Games\Starfield` and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there.
+
+    **NOTE:** If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of *Starfield* and you've never played it before, launch the game through Steam at least once, close it, and try this step again.
+
+2. Launch `ModOrganizer.exe` in the `Star Wars Genesis V5` folder. You will get a popup asking about nxm links. Click **Yes**.
+
+    **NOTE:** `ModOrganizer.exe` is how you will always start the game from now on. **DO NOT** just type "Mod Organizer" in your Windows search bar next time and unintentionally open another Mod Organizer 2 install for a different modded game. Feel free to make a shortcut.
+
 
 ![Install Guide (5)](https://github.com/user-attachments/assets/dfc95e5a-2a21-449c-b2ec-a5e96fc074e0)
 ### **You are now ready to launch the game and complete the last bit of instructions. Make sure _SFSE_ is selected at the top right and click _Run_.** <br />
@@ -94,19 +98,36 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 #### NOTE: Launching for the first time may take awhile (2-3 minutes). Please do not panic and think it froze. Keep in mind that is how you will always start the game from now on.
 
-1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
-2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
-   - Motion Blur Off
-   - Film Grain Off
-   - VSync Off
-   - Upscaling Off (unless you really need it)
-   - Everything else on Ultra (if you can)
-   - Show Damage Numbers OFF under Interface
-   - Dialogue and General Subtitles ON under Accessibility
-3. Music may be off by default for some reason. Highly recommend turning that above "0" so you can hear the amazing soundtrack
-3. Make sure your difficulty settings are all on normal.
-4. For every new jetpack you equip, you must press F1 to activate the jetpack mod. This will unequip your current jetpack so you will have to equip the jetpack again and then press F1 again
-5. Going to mention it one more time here. Disable automatic updates for Starfield on Steam
+1. **First Time Setup:**
+   - After creating your character and loading in for the first time, save your game after the alternate start popup. You can trigger the popup by simply opening your inventory or other menu and then closing it.
+   - Fully restart the game and load that same save to fix the sound issue (and numerous other issues).
+
+2. **Graphics Settings:**
+   - Your graphics preset might reset back to _Low_, which can make the game look unattractive.
+   - Go to settings and adjust them to your preference. Recommended settings:
+     - **Motion Blur:** Off
+     - **Film Grain:** Off
+     - **VSync:** Off
+     - **Upscaling:** Off (unless you really need it)
+     - **Everything else:** Ultra (if your system can handle it)
+     - **Show Damage Numbers:** Off (under Interface)
+     - **Dialogue and General Subtitles:** On (under Accessibility)
+
+3. **Music Settings:**
+   - Music may be off by default for some reason. Highly recommend turning the volume above "0" so you can enjoy the amazing soundtrack.
+
+4. **Difficulty Settings:**
+   - Ensure all difficulty settings are set to **Normal**.
+
+5. **Jetpack Activation:**
+   - For every new jetpack you equip, you must press `F1` to activate the jetpack mod.
+   - This will unequip your current jetpack, so you will need to:
+     1. Equip the jetpack again.
+     2. Press `F1` again.
+
+6. **Disable Automatic Updates:**
+   - **Final reminder to disable automatic updates for *Starfield* on Steam**. It's on you if an update renders your modlist unplayable.
+
 
 #### Note: If you are for some reason trying to load the modlist into an existing save, then I will not offer further support to you beyond what's in this page [here](https://github.com/DeityVengy/Star-Wars-Genesis-Existing-Save-Install)
 
@@ -122,9 +143,10 @@ Your Data folder should have ALL these files in there like this this:
 ![image](https://github.com/user-attachments/assets/a967a16b-3e74-4ac7-a435-6cdbfe07892e) <br />
 The next step is to download the Modified Starfield.ini and replace the existing one in your steamapps\common\Starfield directory. After that is the final step of deleting everything in your Overwrite directory in Mod Organizer 2. You are done and now ready to launch the game.
 
-# Difficulty (Optional)
+![Install Guide (7)](https://github.com/user-attachments/assets/f35af1af-d929-4022-928b-8539372d40fa)
 - If you're finding the game too hard (especially in the beginning), you can increase your health by 50 or 100 with console commands to make it more doable. The command for that is: **_player.modav health 100_**<br />
 - If you're finding the game too easy after leveling up and getting proper armor/weapons, you can revert that above change by running this command: **_player.modav health -100_**
+- You may also balance the game to your liking within the Gameplay Options menu.
 
 # **F.A.Q.**
 [<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/73b2c0fe-b033-45f4-ac64-efe45558e1cb" />](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ)
