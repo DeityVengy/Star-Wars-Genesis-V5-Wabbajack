@@ -127,12 +127,18 @@ The rest are general questions:
 Have a question? Experiencing a bug? Stuck on something during the install process and the [FAQ](https://github.com/DeityVengy/Star-Wars-Genesis-FAQ) isn't helping? Please join the [Discord](https://discord.gg/sqKTwGRwwY) for further support.
 
 
-## **Patch Notes (V4 to V5)**
-You can find the latest patch notes [here](https://github.com/DeityVengy/Star-Wars-Genesis-Patch-Notes)
+## **Patch Notes**
+[<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/76c0e5bb-cf17-43eb-a601-510ecc11f868" />](https://github.com/DeityVengy/Star-Wars-Genesis-Patch-Notes)
+#### <p align="center"> Note: Click the image above to view all patch notes and updates for Star Wars Genesis. </p>
+
 
 
 ## **Gameplay**<br />
-[![Star Wars Genesis V5](https://res.cloudinary.com/marcomontalbano/image/upload/v1724090844/video_to_markdown/images/youtube--MtHQGPZxdDQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=MtHQGPZxdDQ "Star Wars Genesis V5")
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=MtHQGPZxdDQ" title="Star Wars Genesis V5">
+    <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1724090844/video_to_markdown/images/youtube--MtHQGPZxdDQ-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Star Wars Genesis V5" />
+  </a>
+</div>
 
 
 ## **Additional Credits**
