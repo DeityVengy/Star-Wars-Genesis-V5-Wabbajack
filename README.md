@@ -12,7 +12,7 @@
 ![Star Wars Genesis Overview](https://github.com/user-attachments/assets/edce3c26-5c12-4209-9b6c-e913597dec03)
 
 
-#### If you're interested in a more in-depth overview of every mod involved in the list, then take a look at [this](https://github.com/DeityVengy/Star-Wars-Genesis-Full-Modlist).
+#### <p align="center"> Note: If you're interested in a more in-depth overview of every mod involved in the list, then take a look at [this](https://github.com/DeityVengy/Star-Wars-Genesis-Full-Modlist).  </p>
 
 ## **Requirements:**
 - **STEAM** version of Starfield _(No GamePass/Microsoft Support)_. DO NOT ASK FOR MY HELP WITH A PIRATED VERSION
