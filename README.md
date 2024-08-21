@@ -134,8 +134,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 
 ![Install Guide (6)](https://github.com/user-attachments/assets/dbd50e54-9c8e-41a7-aee9-b000f6b4c188)
-### Texture Installation Instructions
-
 [This mod](https://www.nexusmods.com/starfield/mods/5124?tab=files) includes over 100 GB of 2-4K textures and may cause performance issues if your PC is not powerful enough.
 
 
