@@ -84,15 +84,15 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 ![Install Guide (3)](https://github.com/user-attachments/assets/ae711b3d-1f38-439d-bf52-5e3c90fd55cd)
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there <br />
-   If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
-# **LAUNCHING THE GAME**
-You are now ready to launch the game and complete the last bit of instructions. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
-This is how you will always start your game from now on. <br />
-![image](https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36)
-
-#### NOTE: Launching for the first time may take awhile (2-3 minutes). Please do not panic and think it froze.
+#### NOTE: If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
 
 ![Install Guide (5)](https://github.com/user-attachments/assets/dfc95e5a-2a21-449c-b2ec-a5e96fc074e0)
+### **You are now ready to launch the game and complete the last bit of instructions. Make sure _SFSE_ is selected at the top right and click _Run_.** <br />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36" alt="image">
+</p>
+
+#### NOTE: Launching for the first time may take awhile (2-3 minutes). Please do not panic and think it froze. Keep in mind that is how you will always start the game from now on.
 
 1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
 2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
@@ -112,7 +112,7 @@ This is how you will always start your game from now on. <br />
 
 
 
-# **HD Overhaul (Optional)**<br />
+![Install Guide (6)](https://github.com/user-attachments/assets/dbd50e54-9c8e-41a7-aee9-b000f6b4c188)
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. <br />
 MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamapps\common\Starfield\Data folder. <br />
 - Parts 1 - 15
