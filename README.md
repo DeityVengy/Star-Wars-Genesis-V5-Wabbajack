@@ -31,8 +31,9 @@
 # **What is Wabbajack?**<br />
 Wabbajack is an automated modlist installer. It will replicate my modlist and all it's configurations with a portable version of Mod Organizer 2 on your PC. If you have premium on Nexus Mods, then this process is very easy and in just a few clicks, you can be downloading hundreds of mods at once. If you don't have premium, it's going to have you click through each mod to download but it'll guide you exactly on which one to click. After that, it'll still do all the load order/plugin configuration for you.
 
+# **Install Guide**<br />
 
-# **IMPORTANT PRE-STEPS**   <br />
+![Install Guide (4)](https://github.com/user-attachments/assets/d2038af4-ac31-49e7-94e9-ee18ef1f700a)
 1. **Make sure Starfield is installed in the SAME drive you're installing the modlist on.**
 
 2. **If you have any Creation Store mods, please uninstall ALL of them.**
@@ -42,11 +43,11 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 4. **If you've modded Starfield at launch and/or with Vortex Mod Manager, you ~~probably~~ definitely have lingering mods that will cause problems. Please uninstall Starfield through Steam, double check that both _Documents\My Games\Starfield_ and _steamapps\common\Starfield_ folders are deleted, then re-install.**
 
-#### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you can find a mini-guide at the end on how to add additional mods to Star Wars Genesis safely.
+### I am not joking. This is NOT Skyrim. Having just 1 mod that's not supposed to be there can make the entire modlist break. For those of you who are interested, you can find a mini-guide [here](https://github.com/DeityVengy/Star-Wars-Genesis-Modified-Install) on how to add additional mods to Star Wars Genesis safely.
 
 <br />
 
-# **WABBAJACK INSTALL GUIDE**   <br />
+![Install Guide (2)](https://github.com/user-attachments/assets/bfd25f1e-fbf7-4e25-9357-96ad8692e9c9)
 
 <div align="center">
 
@@ -81,17 +82,17 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 
 #### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another Mod Organizer 2 install for a different modded game.<br />
 
-# **IMPORTANT POST-STEPS** <br />
+![Install Guide (3)](https://github.com/user-attachments/assets/ae711b3d-1f38-439d-bf52-5e3c90fd55cd)
 1. Go to Documents\My Games\Starfield and place the [StarfieldCustom.ini](https://drive.google.com/file/d/1Sy_oYuMoBkWTvWZTWLl5GE7eNywmoHGA/view?usp=drive_link) file in there <br />
    If you don't see a folder like that, you likely have it on your OneDrive instead. Otherwise, if this is a fresh install of Starfield and you've never played it before, launch the game through Steam atleast once, close it, and try this step again.
 # **LAUNCHING THE GAME**
 You are now ready to launch the game and complete the last bit of instructions. Make sure _SFSE_ is selected at the top right and click _Run_. <br />
 This is how you will always start your game from now on. <br />
-
 ![image](https://github.com/user-attachments/assets/51d62213-409e-49f4-a032-6119e6624c36)
-# **IN-GAME SETUP** (DO NOT SKIP THIS IS VERY IMPORTANT)<br />
-Now you are ready to launch the game. You may click the RUN button at the top right of Mod Organizer 2 and follow the next few steps.<br />
-PLEASE DO NOT PANIC if it takes awhile to start for the first time.
+
+#### NOTE: Launching for the first time may take awhile (2-3 minutes). Please do not panic and think it froze.
+
+![Install Guide (5)](https://github.com/user-attachments/assets/dfc95e5a-2a21-449c-b2ec-a5e96fc074e0)
 
 1. After creating your character and loading in for the first time, save your game after the alternate start popup and then fully restart and load that same save to fix the sound issue (and numerous other issues).
 2. Your graphics preset most probably reset back to _Low_, which explains why your game is ugly. Go to settings and change it if you wish. My recommended settings are:
