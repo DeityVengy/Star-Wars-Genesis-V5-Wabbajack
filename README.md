@@ -74,7 +74,6 @@ Wabbajack is an automated modlist installer. It will replicate my modlist and al
 10. **Once the install is finished, launch ModOrganizer.exe in the Star Wars Genesis V5 folder. You will get a popup asking about nxm links. Click Yes.**
 
 
-
 #### Note: ModOrganizer.exe is how you will always start the game from now on. DO NOT just type Mod Organizer in your Windows search bar next time and then accidently open another Mod Organizer 2 install for a different modded game.<br />
 
 ## **IMPORTANT POST-STEP** <br />
