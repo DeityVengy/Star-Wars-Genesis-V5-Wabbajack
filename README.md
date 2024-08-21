@@ -111,7 +111,7 @@ PLEASE DO NOT PANIC if it takes awhile to start for the first time.
 
 
 
-# **HD Overhaul (OPTIONAL)**<br />
+# **HD Overhaul (Optional)**<br />
 [This](https://www.nexusmods.com/starfield/mods/5124?tab=files) amounts to 100+ GB of 2-4K textures and will lead to performance issues if you have a weak PC. <br />
 MANUALLY DOWNLOAD these files and put the BA2 inside each archive in the steamapps\common\Starfield\Data folder. <br />
 - Parts 1 - 15
