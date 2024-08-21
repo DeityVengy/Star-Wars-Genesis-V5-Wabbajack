@@ -129,7 +129,7 @@ Have a question? Experiencing a bug? Stuck on something during the install proce
 
 ## **Patch Notes**
 [<img alt="alt_text" width="16430px" src="https://github.com/user-attachments/assets/76c0e5bb-cf17-43eb-a601-510ecc11f868" />](https://github.com/DeityVengy/Star-Wars-Genesis-Patch-Notes)
-#### <p align="center"> Note: Click the image above to view all patch notes and updates for Star Wars Genesis. </p>
+#### <p align="center"> Note: Click the image above to view all patch notes and update history for Star Wars Genesis. </p>
 
 
 
